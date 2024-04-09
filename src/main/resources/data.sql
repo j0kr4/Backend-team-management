@@ -1,0 +1,21 @@
+INSERT INTO team (name, slogan) VALUES ('PSG', 'Revons plus grand');
+INSERT INTO team (name, slogan) VALUES ('Real Madrid', 'Les galactiques');
+INSERT INTO team (name, slogan) VALUES ('Barcelone', 'La Macia');
+INSERT INTO team (name, slogan) VALUES ('Bayern', 'Les puissants en Allemagne');
+INSERT INTO team (name, slogan) VALUES ('Manchester United', 'Les red devils');
+
+INSERT INTO player (name, team_id) VALUES ('Kylian Mbappe', 1);
+INSERT INTO player (name, team_id) VALUES ('Lionel Messi', 1);
+INSERT INTO player (name, team_id) VALUES ('Neymar Jr', 1);
+INSERT INTO player (name, team_id) VALUES ('Karim Benzema', 2);
+INSERT INTO player (name, team_id) VALUES ('Luka Modric', 2);
+INSERT INTO player (name, team_id) VALUES ('Sergio Ramos', 2);
+INSERT INTO player (name, team_id) VALUES ('Gerard Pique', 3);
+INSERT INTO player (name, team_id) VALUES ('Sergio Busquets', 3);
+INSERT INTO player (name, team_id) VALUES ('Ansu Fati', 3);
+INSERT INTO player (name, team_id) VALUES ('Robert Lewandowski', 4);
+INSERT INTO player (name, team_id) VALUES ('Thomas Muller', 4);
+INSERT INTO player (name, team_id) VALUES ('Manuel Neuer', 4);
+INSERT INTO player (name, team_id) VALUES ('Cristiano Ronaldo', 5);
+INSERT INTO player (name, team_id) VALUES ('Bruno Fernandes', 5);
+INSERT INTO player (name, team_id) VALUES ('Paul Pogba', 5);
